@@ -1,0 +1,14 @@
+C:\StudentRegis\student-registration\bin\Debug\netcoreapp2.1\student-registration.deps.json
+C:\StudentRegis\student-registration\bin\Debug\netcoreapp2.1\student-registration.runtimeconfig.json
+C:\StudentRegis\student-registration\bin\Debug\netcoreapp2.1\student-registration.runtimeconfig.dev.json
+C:\StudentRegis\student-registration\bin\Debug\netcoreapp2.1\student-registration.dll
+C:\StudentRegis\student-registration\bin\Debug\netcoreapp2.1\student-registration.pdb
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.csprojAssemblyReference.cache
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.csproj.CoreCompileInputs.cache
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.RazorAssemblyInfo.cache
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.RazorAssemblyInfo.cs
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.AssemblyInfoInputs.cache
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.AssemblyInfo.cs
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.RazorTargetAssemblyInfo.cache
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.dll
+C:\StudentRegis\student-registration\obj\Debug\netcoreapp2.1\student-registration.pdb
